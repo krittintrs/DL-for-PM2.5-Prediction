@@ -13,7 +13,7 @@ Created by using Python language with Google Colab
 
 ## Team Member 
 - [Krittin Thirasak](https://github.com/krittintrs) : research and develop deep learning model
-- [Teerawat chuaphanngam](https://github.com/phukaokub) : data research and presentation
+- [Teerawat Chuaphanngam](https://github.com/phukaokub) : data research and presentation
 - Wasupol Hengsritawat : scientific research and graphic design
 
 ## General info
